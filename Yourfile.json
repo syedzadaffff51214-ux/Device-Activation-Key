@@ -16,5 +16,11 @@
         "key": "syedwasishah",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4216e0960ecd4824",
+        "key": "syedizenshah",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
