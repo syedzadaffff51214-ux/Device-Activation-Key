@@ -22,5 +22,11 @@
         "key": "syedizenshah",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "55f0a9ca93cff67a",
+        "key": "Wasishag",
+        "expirydate": "15-06-2026",
+        "Allowoffline": true
     }
 ]
