@@ -1,5 +1,4 @@
-[
-    {
+Wasishahishah   {
         "device_id": "device123",
         "key": "key12345",
         "expirydate": "31-12-2025",
@@ -25,7 +24,7 @@
     },
     {
         "device_id": "f4bba1b049b2fdbb",
-        "key": "Wasishah",
+        "key": "tryagain",
         "expirydate": "15-06-2028",
         "Allowoffline": true
     },
